@@ -5,6 +5,11 @@
 
 <br>
 
+O app está disponível para uso no link / The application is available for use at the link:
+https://moveit-beta-gold.vercel.app/
+
+
+
 ***App Finished***
 
 ![Capa](https://user-images.githubusercontent.com/54003876/108790703-226de300-755c-11eb-9590-f958ff60c91d.png)
